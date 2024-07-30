@@ -6,4 +6,6 @@ I've worked for a bunch of cool places like Linktree, The Lumery, TRENDii and in
 
 I've built & been across all disciplines Product, Data Eng/Sci/Viz, MLops, Cloud Architecture, SRE / devops / o11y, Growth Engineering, Product Developmentand and in between.
 
+I'm probably doing all of this to fuel a hobby farm to feed neighbours 🐄
+
 Melbourne, Australia 🇦🇺
