@@ -1,8 +1,8 @@
 # G'day
 
-[I'm Carter](https://linktr.ee/mewc)
-I've worked for a bunch of cool places like Linktree, The Lumery, TRENDii and Safesite and now I'm Head of Engineering at Kanopi building embedded saas products
+People call me Carter.
 
-Engineering meaning Data, Product, MLops, Architecture, SRE, Security, Product Engineering and all in between 😲
+I've worked for a bunch of cool places like Linktree, The Lumery, TRENDii and in Insuretech and now I'm building indiehacker startup products - at the moment focussing on piing.ai 
+I've built & been across all disciplines Product, Data Eng/Sci/Viz, MLops, Cloud Architecture, SRE / devops / o11y, Growth Engineering, Product Developmentand and in between.
 
 Melbourne, Australia 🇦🇺
